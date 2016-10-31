@@ -5,29 +5,26 @@
  *
  * Output: A permutation (reordering) {a1', a2', ... , an' } 
  * */
-function insertSort(array)
-{
+
+function insertSort(array) {
 
     var startIndex = 1;
-    var key;
+    var valueAtStartIndex;
     var indexOfValueToInsert;
 
-    for (; startIndex < array.length; startIndex++)
-    {
+    for (; startIndex < array.length; startIndex++) {
 
-        key = array[startIndex];
+        valueAtStartIndex = array[startIndex];
         indexOfValueToInsert = startIndex - 1;
 
-        while (indexOfValueToInsert > -1 && array[indexOfValueToInsert] >
-            key)
-        {
+        while (indexOfValueToInsert > -1 && array[indexOfValueToInsert] > valueAtStartIndex) {
 
             array[indexOfValueToInsert + 1] = array[indexOfValueToInsert];
             indexOfValueToInsert--;
 
         }
 
-        array[indexOfValueToInsert + 1] = key;
+        array[indexOfValueToInsert + 1] = valueAtStartIndex;
 
     }
 
