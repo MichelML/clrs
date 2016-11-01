@@ -4,9 +4,9 @@
  * Input: A sequence of n numbers {a1, a2, ... , an }
  *
  * Output: A permutation (reordering) {a1', a2', ... , an' } 
- * */
+ **/
 
-function insertSort(array) {
+function insertionSort(array) {
 
     var startIndex = 1;
     var valueAtStartIndex;
