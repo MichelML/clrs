@@ -38,7 +38,6 @@ function merge(left, right) {
  
     return result;
 }
- 
 
 console.log(mergeSort(generateArr(1,100)));
 console.log(mergeSort(generateArr(100,-1000)));
