@@ -10,6 +10,7 @@ CLRS algorithms implementation
 
 # Python
 - [Insertion Sort](https://github.com/MichelML/clrs/tree/master/python/insertion_sort.py)
+- [Bubble Sort](https://github.com/MichelML/clrs/tree/master/python/bubble_sort.py)
 
 # Clojure
 - [Insertion Sort](https://github.com/MichelML/clrs/tree/master/clojure/insertion_sort.clj)
