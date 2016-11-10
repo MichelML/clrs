@@ -53,4 +53,3 @@ function generateArr(length, range, withdecimals) {
     return arr;
 
 }
-
