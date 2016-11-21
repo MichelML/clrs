@@ -6,7 +6,7 @@
  * Sort each sublist recursively by re-applying merge sort.
  * Merge the two sublists back into one sorted list.
  *
- * taken the elegation solution from: http://www.stoimen.com/blog/2010/07/02/friday-algorithms-javascript-merge-sort/
+ * inspired from: http://www.stoimen.com/blog/2010/07/02/friday-algorithms-javascript-merge-sort/
  **/
 
 function mergeSort(arr) {
