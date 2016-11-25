@@ -9,8 +9,14 @@
 - [Insertion Sort](https://github.com/MichelML/clrs/tree/master/algorithms/java/insertion_sort.java)
 
 # Python
+<<<<<<< HEAD
 - [Insertion Sort](https://github.com/MichelML/clrs/tree/master/algorithms/python/insertion_sort.py)
 - [Bubble Sort](https://github.com/MichelML/clrs/tree/master/algorithms/python/bubble_sort.py)
+=======
+- [Insertion Sort](https://github.com/MichelML/clrs/tree/master/python/insertion_sort.py)
+- [Merge Sort](https://github.com/MichelML/clrs/tree/master/python/merge_sort.py)
+- [Bubble Sort](https://github.com/MichelML/clrs/tree/master/python/bubble_sort.py)
+>>>>>>> ba36bf90f3c4e7b3f0420779fc784cfd5ba0f486
 
 # Clojure
 - [Insertion Sort](https://github.com/MichelML/clrs/tree/master/algorithms/clojure/insertion_sort.clj)
