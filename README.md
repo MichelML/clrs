@@ -10,6 +10,7 @@
 
 # Python
 - [Insertion Sort](https://github.com/MichelML/clrs/tree/master/python/insertion_sort.py)
+- [Merge Sort](https://github.com/MichelML/clrs/tree/master/python/merge_sort.py)
 - [Bubble Sort](https://github.com/MichelML/clrs/tree/master/python/bubble_sort.py)
 
 # Clojure
