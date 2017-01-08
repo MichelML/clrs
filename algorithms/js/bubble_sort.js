@@ -7,7 +7,7 @@
  * Output: A permutation (reordering) {a1', a2', ... , an' } 
  **/
 
-function bubbleSort(arr) {
+const bubbleSort = (arr) => {
 
     let i = 0,
         arrLastIndex = arr.length - 1,
